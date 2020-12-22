@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="914bd565-e4f2-4ed7-9ba5-9434e82ee254" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design/pattern/proxy/UserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design/pattern/proxy/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design/pattern/proxy/dynamicproxy/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design/pattern/proxy/dynamicproxy/UserProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design/pattern/proxy/staticproxy/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design/pattern/proxy/staticproxy/UserProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/builder/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/builder/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/builder/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/builder/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/observer/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/observer/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/observer/Observerable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/observer/Observerable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/observer/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/observer/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/observer/WeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/observer/WeServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/ProductA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/ProductA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/ProductB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/ProductB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/ProductC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/ProductC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/simplefactory/SimpleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/singleton/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/singleton/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/singleton/SingleTonPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/singleton/SingleTonPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/BikeStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/BikeStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/PlaneStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/PlaneStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/SubwayStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/SubwayStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/TravelContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/TravelContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/TravelStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/TravelStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/design/pattern/strategy/WalkStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/design/pattern/strategy/WalkStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lzmo8efIiuQo8ADErk8q4o5V1y" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.MainTest (1)">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.design.pattern.proxy.staticproxy.MainTest" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design.pattern.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.design.pattern.proxy.dynamicproxy.MainTest" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design.pattern.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="Application.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="914bd565-e4f2-4ed7-9ba5-9434e82ee254" name="Default Changelist" comment="" />
+      <created>1608608465683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608608465683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
